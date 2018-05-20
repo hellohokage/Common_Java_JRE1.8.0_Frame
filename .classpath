@@ -8,7 +8,7 @@
 	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.3.jar" sourcepath="E:/localRepository/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3-sources.jar"/>
 	<classpathentry kind="lib" path="lib/commons-collections-3.2.2.jar"/>
 	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/c3p0-0.9.5.2.jar" sourcepath="E:/localRepository/com/mchange/c3p0/0.9.5.2/c3p0-0.9.5.2-sources.jar"/>
 	<classpathentry kind="lib" path="lib/mchange-commons-java-0.2.11.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
